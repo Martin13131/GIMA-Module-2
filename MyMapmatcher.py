@@ -1,4 +1,6 @@
 """
+Original script by Simon Scheider. Available at: https://github.com/simonscheider/mapmatching
+Modified for use in matching cyclist track datapoints to road-network by Maarten Mol
 -------------------------------------------------------------------------------
 # Name:        mapMatcher
 # Purpose:      This python script allows map matching (matching of track points to a network)
